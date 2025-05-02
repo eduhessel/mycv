@@ -26,6 +26,19 @@
   "features": [],
   "workExperience": [
     {
+      "id": "qmvLQTWicW2PZEMyBIC6",
+      "year": "2025 — Now",
+      "heading": "Product Designer at Diel Energia",
+      "url": "https://https://dielenergia.com/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Product Designer",
+      "company": "Diel Energia",
+      "location": "São Paulo, Brasil"
+    },
+    {
       "id": "qmvLQTWicW2PZEMyBIC5",
       "year": "2024 — 2024",
       "heading": "Product Designer at Primeo",
@@ -259,6 +272,19 @@
     {
       "name": "Work Experience",
       "items": [
+        {
+          "id": "qmvLQTWicW2PZEMyBIC6",
+          "year": "2025 — Now",
+          "heading": "Product Designer at Diel Energia",
+          "url": "https://dielenergia.com/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Product Designer",
+          "company": "Diel Energia",
+          "location": "São Paulo, Brasil"
+        },
         {
           "id": "qmvLQTWicW2PZEMyBIC5",
           "year": "2024 — 2024",
