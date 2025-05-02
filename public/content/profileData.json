@@ -1,0 +1,502 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "duwdu",
+    "displayName": "Eduardo Hessel",
+    "profession": "Product Designer",
+    "location": "São Paulo, Brazil",
+    "pronouns": "He/Him",
+    "byline": "Product Designer in São Paulo, Brazil, He/Him",
+    "website": "https://eduardohessel.com.br/",
+    "websiteURL": "https://eduardohessel.com.br/",
+    "about": null,
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": null
+  },
+  "projects": [],
+  "sideProjects": [],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [],
+  "awards": [],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "qmvLQTWicW2PZEMyBIC5",
+      "year": "2024 — 2024",
+      "heading": "Product Designer at Primeo",
+      "url": "https://play.google.com/store/apps/details?id=com.primeo.third&hl=pt_BR&pli=1",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Product Designer",
+      "company": "Primeo",
+      "location": "São Paulo, Brasil"
+    },
+    {
+      "id": "X1C8IPDjIhiYuHkAcATj",
+      "year": "2022 — 2024",
+      "heading": "Product Designer at Smartbrain",
+      "url": "https://www.smartbrain.com.br/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Product Designer",
+      "company": "Smartbrain",
+      "location": "São Paulo, Brazil"
+    },
+    {
+      "id": "5ZqXkVyerioxn1HLIHoc",
+      "year": "2023 — 2023",
+      "heading": "Junior Product Designer at Bradesco",
+      "url": "https://banco.bradesco/html/classic/index.shtm",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Junior Product Designer",
+      "company": "Bradesco",
+      "location": "São Paulo, Brasil"
+    },
+    {
+      "id": "qbXtT2F9HRbGYwx1yXwt",
+      "year": "2020 — 2021",
+      "heading": "Junior Art Director at AIC Materiais",
+      "url": "https://aicmateriais.com.br/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Junior Art Director",
+      "company": "AIC Materiais",
+      "location": "São Paulo, Brasil"
+    }
+  ],
+  "volunteering": [],
+  "education": [
+    {
+      "id": "12E8cfEzKjkSrVJ9s7mZ",
+      "year": "2024 — Now",
+      "heading": "MBA in Software Engineer at USP/Esalq",
+      "url": "https://mbauspesalq.com/cursos/mba-em-engenharia-de-software?gad_source=1&gclid=CjwKCAjwtqmwBhBVEiwAL-WAYdCdzpn0NHK46icjXyNrZ1yUuSNLlyY2wMD1AcrlpEVYuFGgRDcNABoC6VgQAvD_BwE",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "education",
+      "degree": "MBA in Software Engineer",
+      "school": "USP/Esalq",
+      "location": "Brazil"
+    },
+    {
+      "id": "54p5G4dtl9qRDlUL7ZSS",
+      "year": "2018 — 2019",
+      "heading": "Technologist in Animation Design at Centro Universitário Senac",
+      "url": "https://www.sp.senac.br/",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "education",
+      "degree": "Technologist in Animation Design",
+      "school": "Centro Universitário Senac",
+      "location": "São Paulo, Brazil"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "4BKDs6n9Coscs1Qfb5s7",
+      "year": "2024",
+      "heading": "UX Design from Google",
+      "url": "https://grow.google/intl/pt/google-career-certificates/ux-design/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "certification",
+      "name": "UX Design",
+      "organization": "Google"
+    },
+    {
+      "id": "lHCNH0jyfcu8IUjlTANH",
+      "year": "2024",
+      "heading": "SEO from Alura",
+      "url": "https://www.alura.com.br/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "certification",
+      "name": "SEO",
+      "organization": "Alura"
+    },
+    {
+      "id": "sdee7KudkAH75EjYTjPf",
+      "year": "2024",
+      "heading": "Design System from Alura",
+      "url": "https://www.alura.com.br/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "certification",
+      "name": "Design System",
+      "organization": "Alura"
+    },
+    {
+      "id": "mOGhXOBWjARSgqVXLPLl",
+      "year": "2024",
+      "heading": "UX Writing from Alura",
+      "url": "https://www.alura.com.br/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "certification",
+      "name": "UX Writing",
+      "organization": "Alura"
+    },
+    {
+      "id": "mKpApETHCo81jaG5GsEB",
+      "year": "2023",
+      "heading": "Product Design from Design Circuit",
+      "url": "https://www.designcircuit.co/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "certification",
+      "name": "Product Design",
+      "organization": "Design Circuit"
+    },
+    {
+      "id": "jyB9E0FGTPKc5UBirGeU",
+      "year": "2023",
+      "heading": "UI Design from Insany",
+      "url": "https://www.insany.design/pt-BR",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "certification",
+      "name": "UI Design",
+      "organization": "Insany"
+    },
+    {
+      "id": "cF9U8T1Ud0GguWIyAtSQ",
+      "year": "2022",
+      "heading": "UX Design from Mergo UX",
+      "url": "https://www.mergo.com.br/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "certification",
+      "name": "UX Design",
+      "organization": "Mergo UX"
+    },
+    {
+      "id": "uxnnxKrnzx7G2nwbiqZD",
+      "year": "2022",
+      "heading": "UX Writter from arara school",
+      "url": "https://www.arara.school/",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "certification",
+      "name": "UX Writter",
+      "organization": "arara school"
+    },
+    {
+      "id": "TYlxs5DQc5dkJL7xpEqJ",
+      "year": "2021",
+      "heading": "UX/UI & Product Design from UX Unicórnio",
+      "url": "https://uxunicornio.com.br/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "certification",
+      "name": "UX/UI & Product Design",
+      "organization": "UX Unicórnio"
+    },
+    {
+      "id": "ChWBJcIKlDdbLBGOd9MD",
+      "year": "2016",
+      "heading": "English from CNA",
+      "url": "https://cna.com.br",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "certification",
+      "name": "English",
+      "organization": "CNA"
+    },
+    {
+      "id": "NIaYS35GvrYiWSVS4Bv9",
+      "year": "2016",
+      "heading": "Playgame from Saga",
+      "url": "https://www.saga.com.br",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "certification",
+      "name": "Playgame",
+      "organization": "Saga"
+    }
+  ],
+  "contact": [
+    {
+      "id": "adCul6GBYWoAF0kh71vg",
+      "platform": "Website",
+      "handle": "eduardohessel.com.br",
+      "url": "https://eduardohessel.com.br/"
+    },
+    {
+      "id": "c219X84i2P92ryJBriH2",
+      "platform": "LinkedIn",
+      "handle": "eduardo-hessel",
+      "url": "https://linkedin.com/in/eduardo-hessel"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "qmvLQTWicW2PZEMyBIC5",
+          "year": "2024 — 2024",
+          "heading": "Product Designer at Primeo",
+          "url": "https://play.google.com/store/apps/details?id=com.primeo.third&hl=pt_BR&pli=1",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Product Designer",
+          "company": "Primeo",
+          "location": "São Paulo, Brasil"
+        },
+        {
+          "id": "X1C8IPDjIhiYuHkAcATj",
+          "year": "2022 — 2024",
+          "heading": "Product Designer at Smartbrain",
+          "url": "https://www.smartbrain.com.br/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Product Designer",
+          "company": "Smartbrain",
+          "location": "São Paulo, Brazil"
+        },
+        {
+          "id": "5ZqXkVyerioxn1HLIHoc",
+          "year": "2023 — 2023",
+          "heading": "Junior Product Designer at Bradesco",
+          "url": "https://banco.bradesco/html/classic/index.shtm",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Junior Product Designer",
+          "company": "Bradesco",
+          "location": "São Paulo, Brasil"
+        },
+        {
+          "id": "qbXtT2F9HRbGYwx1yXwt",
+          "year": "2020 — 2021",
+          "heading": "Junior Art Director at AIC Materiais",
+          "url": "https://aicmateriais.com.br/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Junior Art Director",
+          "company": "AIC Materiais",
+          "location": "São Paulo, Brasil"
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "12E8cfEzKjkSrVJ9s7mZ",
+          "year": "2024 — Now",
+          "heading": "MBA in Software Engineer at USP/Esalq",
+          "url": "https://mbauspesalq.com/cursos/mba-em-engenharia-de-software?gad_source=1&gclid=CjwKCAjwtqmwBhBVEiwAL-WAYdCdzpn0NHK46icjXyNrZ1yUuSNLlyY2wMD1AcrlpEVYuFGgRDcNABoC6VgQAvD_BwE",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "education",
+          "degree": "MBA in Software Engineer",
+          "school": "USP/Esalq",
+          "location": "Brazil"
+        },
+        {
+          "id": "54p5G4dtl9qRDlUL7ZSS",
+          "year": "2018 — 2019",
+          "heading": "Technologist in Animation Design at Centro Universitário Senac",
+          "url": "https://www.sp.senac.br/",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "education",
+          "degree": "Technologist in Animation Design",
+          "school": "Centro Universitário Senac",
+          "location": "São Paulo, Brazil"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "items": [
+        {
+          "id": "4BKDs6n9Coscs1Qfb5s7",
+          "year": "2024",
+          "heading": "UX Design from Google",
+          "url": "https://grow.google/intl/pt/google-career-certificates/ux-design/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "certification",
+          "name": "UX Design",
+          "organization": "Google"
+        },
+        {
+          "id": "lHCNH0jyfcu8IUjlTANH",
+          "year": "2024",
+          "heading": "SEO from Alura",
+          "url": "https://www.alura.com.br/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "certification",
+          "name": "SEO",
+          "organization": "Alura"
+        },
+        {
+          "id": "sdee7KudkAH75EjYTjPf",
+          "year": "2024",
+          "heading": "Design System from Alura",
+          "url": "https://www.alura.com.br/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "certification",
+          "name": "Design System",
+          "organization": "Alura"
+        },
+        {
+          "id": "mOGhXOBWjARSgqVXLPLl",
+          "year": "2024",
+          "heading": "UX Writing from Alura",
+          "url": "https://www.alura.com.br/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "certification",
+          "name": "UX Writing",
+          "organization": "Alura"
+        },
+        {
+          "id": "mKpApETHCo81jaG5GsEB",
+          "year": "2023",
+          "heading": "Product Design from Design Circuit",
+          "url": "https://www.designcircuit.co/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "certification",
+          "name": "Product Design",
+          "organization": "Design Circuit"
+        },
+        {
+          "id": "jyB9E0FGTPKc5UBirGeU",
+          "year": "2023",
+          "heading": "UI Design from Insany",
+          "url": "https://www.insany.design/pt-BR",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "certification",
+          "name": "UI Design",
+          "organization": "Insany"
+        },
+        {
+          "id": "cF9U8T1Ud0GguWIyAtSQ",
+          "year": "2022",
+          "heading": "UX Design from Mergo UX",
+          "url": "https://www.mergo.com.br/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "certification",
+          "name": "UX Design",
+          "organization": "Mergo UX"
+        },
+        {
+          "id": "uxnnxKrnzx7G2nwbiqZD",
+          "year": "2022",
+          "heading": "UX Writter from arara school",
+          "url": "https://www.arara.school/",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "certification",
+          "name": "UX Writter",
+          "organization": "arara school"
+        },
+        {
+          "id": "TYlxs5DQc5dkJL7xpEqJ",
+          "year": "2021",
+          "heading": "UX/UI & Product Design from UX Unicórnio",
+          "url": "https://uxunicornio.com.br/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "certification",
+          "name": "UX/UI & Product Design",
+          "organization": "UX Unicórnio"
+        },
+        {
+          "id": "ChWBJcIKlDdbLBGOd9MD",
+          "year": "2016",
+          "heading": "English from CNA",
+          "url": "https://cna.com.br",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "certification",
+          "name": "English",
+          "organization": "CNA"
+        },
+        {
+          "id": "NIaYS35GvrYiWSVS4Bv9",
+          "year": "2016",
+          "heading": "Playgame from Saga",
+          "url": "https://www.saga.com.br",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "certification",
+          "name": "Playgame",
+          "organization": "Saga"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "adCul6GBYWoAF0kh71vg",
+          "platform": "Website",
+          "handle": "eduardohessel.com.br",
+          "url": "https://eduardohessel.com.br/"
+        },
+        {
+          "id": "c219X84i2P92ryJBriH2",
+          "platform": "LinkedIn",
+          "handle": "eduardo-hessel",
+          "url": "https://linkedin.com/in/eduardo-hessel"
+        }
+      ]
+    }
+  ]
+}
