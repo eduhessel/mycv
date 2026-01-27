@@ -3,13 +3,13 @@
     "profilePhoto": "/content/media/profilePhoto.jpg",
     "username": "duwdu",
     "displayName": "Eduardo Hessel",
-    "profession": "Product Designer",
+    "profession": "Product Designer & Software Engineer",
     "location": "São Paulo, Brazil",
     "pronouns": "He/Him",
-    "byline": "Product Designer in São Paulo, Brazil, He/Him",
+    "byline": "Product Designer & Software Engineer in São Paulo, Brazil",
     "website": "https://eduardohessel.com.br/",
     "websiteURL": "https://eduardohessel.com.br/",
-    "about": null,
+    "about": "Product Designer & Software Engineer with more than 4 years of experience. Solid experience in multidisciplinary teams, contributing to the delivery of scalable and user-centered solutions and performance.",
     "status": {
       "text": null,
       "emoji": null,
@@ -28,6 +28,19 @@
     {
       "id": "qmvLQTWicW2PZEMyBIC6",
       "year": "2025 — Now",
+      "heading": "Product Designer at Gorila",
+      "url": "https://gorila.com.br/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Product Designer",
+      "company": "Gorila",
+      "location": "São Paulo, Brasil"
+    },
+    {
+      "id": "qmvLQTWicW2PZEMyBIC6",
+      "year": "2025 — 2025",
       "heading": "Product Designer at Diel Energia",
       "url": "https://https://dielenergia.com/",
       "collaborators": [],
@@ -41,7 +54,7 @@
     {
       "id": "qmvLQTWicW2PZEMyBIC5",
       "year": "2024 — 2024",
-      "heading": "Product Designer at Primeo",
+      "heading": "Product Designer & Frontend Developer at Primeo",
       "url": "https://play.google.com/store/apps/details?id=com.primeo.third&hl=pt_BR&pli=1",
       "collaborators": [],
       "description": "",
@@ -54,7 +67,7 @@
     {
       "id": "X1C8IPDjIhiYuHkAcATj",
       "year": "2022 — 2024",
-      "heading": "Product Designer at Smartbrain",
+      "heading": "Product Designer & Frontend Developer at Smartbrain",
       "url": "https://www.smartbrain.com.br/",
       "collaborators": [],
       "description": "",
@@ -63,32 +76,6 @@
       "title": "Product Designer",
       "company": "Smartbrain",
       "location": "São Paulo, Brazil"
-    },
-    {
-      "id": "5ZqXkVyerioxn1HLIHoc",
-      "year": "2023 — 2023",
-      "heading": "Junior Product Designer at Bradesco",
-      "url": "https://banco.bradesco/html/classic/index.shtm",
-      "collaborators": [],
-      "description": "",
-      "attachments": [],
-      "type": "workExperience",
-      "title": "Junior Product Designer",
-      "company": "Bradesco",
-      "location": "São Paulo, Brasil"
-    },
-    {
-      "id": "qbXtT2F9HRbGYwx1yXwt",
-      "year": "2020 — 2021",
-      "heading": "Junior Art Director at AIC Materiais",
-      "url": "https://aicmateriais.com.br/",
-      "collaborators": [],
-      "description": "",
-      "attachments": [],
-      "type": "workExperience",
-      "title": "Junior Art Director",
-      "company": "AIC Materiais",
-      "location": "São Paulo, Brasil"
     }
   ],
   "volunteering": [],
