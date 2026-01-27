@@ -26,7 +26,7 @@
   "features": [],
   "workExperience": [
     {
-      "id": "qmvLQTWicW2PZEMyBIC6",
+      "id": "qmvLQTWicW2PZEMyBIC7",
       "year": "2025 — Now",
       "heading": "Product Designer at Gorila",
       "url": "https://gorila.com.br/",
@@ -260,8 +260,21 @@
       "name": "Work Experience",
       "items": [
         {
-          "id": "qmvLQTWicW2PZEMyBIC6",
+          "id": "qmvLQTWicW2PZEMyBIC7",
           "year": "2025 — Now",
+          "heading": "Product Designer at Gorila",
+          "url": "https://gorila.com.br/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Product Designer",
+          "company": "Gorila",
+          "location": "São Paulo, Brasil"
+        },
+        {
+          "id": "qmvLQTWicW2PZEMyBIC6",
+          "year": "2025 — 2025",
           "heading": "Product Designer at Diel Energia",
           "url": "https://dielenergia.com/",
           "collaborators": [],
@@ -275,54 +288,28 @@
         {
           "id": "qmvLQTWicW2PZEMyBIC5",
           "year": "2024 — 2024",
-          "heading": "Product Designer at Primeo",
+          "heading": "Product Designer & Frontend Engineer at Primeo",
           "url": "https://play.google.com/store/apps/details?id=com.primeo.third&hl=pt_BR&pli=1",
           "collaborators": [],
           "description": "",
           "attachments": [],
           "type": "workExperience",
-          "title": "Product Designer",
+          "title": "Product Designer & Frontend Engineer",
           "company": "Primeo",
           "location": "São Paulo, Brasil"
         },
         {
           "id": "X1C8IPDjIhiYuHkAcATj",
           "year": "2022 — 2024",
-          "heading": "Product Designer at Smartbrain",
+          "heading": "Product Designer & Software Engineer at Smartbrain",
           "url": "https://www.smartbrain.com.br/",
           "collaborators": [],
           "description": "",
           "attachments": [],
           "type": "workExperience",
-          "title": "Product Designer",
+          "title": "Product Designer & Software Engineer",
           "company": "Smartbrain",
           "location": "São Paulo, Brazil"
-        },
-        {
-          "id": "5ZqXkVyerioxn1HLIHoc",
-          "year": "2023 — 2023",
-          "heading": "Junior Product Designer at Bradesco",
-          "url": "https://banco.bradesco/html/classic/index.shtm",
-          "collaborators": [],
-          "description": "",
-          "attachments": [],
-          "type": "workExperience",
-          "title": "Junior Product Designer",
-          "company": "Bradesco",
-          "location": "São Paulo, Brasil"
-        },
-        {
-          "id": "qbXtT2F9HRbGYwx1yXwt",
-          "year": "2020 — 2021",
-          "heading": "Junior Art Director at AIC Materiais",
-          "url": "https://aicmateriais.com.br/",
-          "collaborators": [],
-          "description": "",
-          "attachments": [],
-          "type": "workExperience",
-          "title": "Junior Art Director",
-          "company": "AIC Materiais",
-          "location": "São Paulo, Brasil"
         }
       ]
     },
